@@ -22,7 +22,7 @@ public class MainClass {
         // creating list of User Objects
         lstObjUser = Arrays.asList(
                 new User("john", "botham", 22, LocalDate.of(2000, 6, 5), 450),
-                new User("james", "bond", 27, LocalDate.of(1995, 7, 6), 480),
+                new User("james", "bond", 27, LocalDate.of(1995, 7, 6), 481),
                 new User("chirs", "morries", 32, LocalDate.of(1990, 8, 7), 490),
                 new User("david", "miller", 42, LocalDate.of(1980, 9, 8), 300));
     }
